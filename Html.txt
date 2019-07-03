@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<title>Deneme 2077</title>
+<meta name="keywords" content="html,öðrenme,ya da öðrenememe">
+<meta name="description" content="Son Oyun">
+<meta name="author" content="John Wick">
+<meta charset="UTF-8">
+<link rel= "stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <div class="container">
+        <div class="logo"> </div>
+        <div class="search">
+        <input placeholder="Buraya Týklayýn...">
+        <a href="https://youtu.be/l_BkEzxcukE">Click Here</a>
+        </div>  
+    </div>
+</header>
+
+<div class="bolum"></div>
+<div class="resim">
+    <div class="text">
+        <h1>Ali<span> Koç</span></h1>
+        <h4>Son Son Son...</h4>
+    </div>
+</div>
+
+<div class="container">
+    <div class="left">
+        <div class="leftp">
+        Son Son Son.<br><br>
+
+        <div class="right">
+        <div class="rightp">
+        <a href=""><div class="button">Buraya Týklayýn</div></a>
+            Bunun videosu þurada: <a href="https://youtu.be/3T4NHFzKyEg">Youtube</a>
+        </div>
+    </div>
+</div>
+
+     <div class="background">
+         <div class="transbox">
+         <p>Enteresan þeyler varmýþ la burda.</p>
+     </div>
+  </div>
+  <div class="header">
+    <h1>Gezinme Çubuðu</h1>
+  </div>
+  
+  <div class="topnav">
+    <a href="#">Anasayfa</a>
+    <a href="#">Hakkkýnda</a>
+    <a href="#">Ýletiþim</a>
+  </div>
+    <footer>
+        <div class="dropdown">
+            <button class="dropbtn">Açýlýr Pencere</button>
+            <div class="dropdown-content">
+              <a href="#">Son</a>
+              <a href="#">Ýlk</a>
+              <a href="#">En Son</a>
+            </div>
+          </div>
+        <div class="container">
+            <div class="column-25">
+                <span class="line"><h2 class="title">Aziz Yýldýrým</h2></span>
+                <span class="info">
+                Son Son Son...
+                </span>
+            </div>
+            <div class="column-25">
+                <span class="line"><h2 class="title">Aziz Yýldýrým</h2></span>
+                <span class="info">
+                Canýmýz Sýkýlýr...
+                </span>
+            </div>
+            <div class="column-25">
+                <span class="line"><h2 class="title">Son Son Son</h2></span>
+                <span class="info">
+                Son Son Son...
+                </span>
+            </div>
+            <div class="column-25">
+                <span class="line"><h2 class="title">Son Son Son</h2></span>
+                <span class="info">
+                    Son Son Son...
+                </span>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </footer>
+</body>
+</html>
